@@ -7,6 +7,7 @@ def insertionSort(array) -> List[int]:
   why are you trying to ignore me
 i am fine 
 how are you
+nope why should i ignore you
 
 # data = [9, 5, 1, 4, 3]
 input_data = input()
