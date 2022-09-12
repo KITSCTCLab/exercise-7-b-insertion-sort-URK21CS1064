@@ -8,7 +8,8 @@ def insertionSort(array) -> List[int]:
 i am fine 
 how are you
 nope why should i ignore you
-
+  i am also fine
+  sorry wrongly sent
 # data = [9, 5, 1, 4, 3]
 input_data = input()
 data = []
